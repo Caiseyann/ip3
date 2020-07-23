@@ -16,7 +16,14 @@
 }
 .mouse {
     position: absolute;
-      top: 10px;
-      left: 80px;
-      background-color: black;
+      bottom: -460px;
+      left: 1050px;
+      right: 1900px;
+}
+.jumbotron{ 
+    position:absolute;
+    float: center;
+    left: -30%;
+    transform: translate(50%, 50%);
+    
 }
