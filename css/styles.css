@@ -7,4 +7,16 @@
     color: white;
     text-align: center;
   }  
-
+.logo {
+    position: absolute;
+      top: 380px;
+      bottom: 1200px;
+      left: 1050px;
+      right: 1900px;
+}
+.mouse {
+    position: absolute;
+      top: 10px;
+      left: 80px;
+      background-color: black;
+}
