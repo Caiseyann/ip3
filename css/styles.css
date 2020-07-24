@@ -1,18 +1,4 @@
-
- @media screen and (min-width:480px){
-   body {
-     position:relative;
-   }
- }
- @media and screen and (max-width:720px){
-   body{
-     position:relative;
-   }
- }
- .logo {
-  position: absolute;
-    top: 380px;
-    bottom: 1200px;
-    left: 1050px;
-    right: 1900px;
+.dev{
+  border-spacing: 270px;
+  border-collapse: separate;
 }
