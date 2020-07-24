@@ -1,0 +1,11 @@
+
+ @media screen and (min-width:480px){
+   body {
+     position:relative;
+   }
+ }
+ @media and screen and (max-width:720px){
+   body{
+     position:relative;
+   }
+ }
