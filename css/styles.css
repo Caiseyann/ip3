@@ -7,4 +7,9 @@
   border-collapse: separate;
   align-items: center;
 }
-
+.panel h1{
+  text-align: center;
+}
+.panel h6{
+  text-align: center;
+}
