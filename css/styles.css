@@ -2,3 +2,9 @@
   border-spacing: 270px;
   border-collapse: separate;
 }
+.new{
+  border-spacing: 90px;
+  border-collapse: separate;
+  align-items: center;
+}
+
