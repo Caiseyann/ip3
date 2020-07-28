@@ -12,7 +12,7 @@ This is a web-application designed to present a home page of the DELANI STUDIO b
 There are no known bugs 
 ## Technologies Used
 * CSS, CSS(Bootstrap), HTML
-*JavaScript
+* JavaScript
 * jQuery
 ## Support and contact details
 In case of any questions email me at "caiseyann4@gmail.com" 
