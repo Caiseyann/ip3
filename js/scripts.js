@@ -1,8 +1,8 @@
 $(function () {
-    $("form#form").on('submit',function(event){
+    $("form#mc-embedded-subscribe-form").on('submit',function(event){
        event.preventDefault();
-       let name = $("input#name").val();
-       if ($("input#name").val()){
+       let name = $("input#mce-FNAME").val();
+       if ($("input#mce-EMAIL").val()){
            alert ("Hey " + name + ", Thanks for reaching out to us,Will get back to you");
        }
        else {
