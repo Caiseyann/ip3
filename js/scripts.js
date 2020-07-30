@@ -1,5 +1,5 @@
-$(function () {
-    $("form#mc-embedded-subscribe-form").on('submit',function(event){
+/*$(function () {
+    $("form#formv").on('submit',function(event){
        event.preventDefault();
        let name = $("input#mce-FNAME").val();
        if ($("input#mce-EMAIL").val()){
@@ -9,7 +9,22 @@ $(function () {
            alert("Please provide your correct name and email!");
        }
    });
-});
+});*/
+
+$(document).ready(function(){
+    $("form#formValidity").submit(function(event){
+      // event.preventDefault();
+      var name = $("input#MERGE1").val();
+      var email = $("input#MERGE0").val();
+      var message = $("textarea#comment").val();
+      if (name && email){
+        alert (name + ", we have received your message. Thank you for reaching out to us.");
+      }
+      else {
+        alert("Please enter your name and email!");
+      }
+    });
+  });
 
 $('#image').on("click",function(e){
     $('.span').toggle('slow');
