@@ -25,41 +25,41 @@ $('#image2').on("click",function(e){
 });
 
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work1').toggle("click");
+    $('.span').hover('slow');
+    $('.work1').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work2').toggle("click");
+    $('.span').hover('slow');
+    $('.work2').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work3').toggle("click");
+    $('.span').hover('slow');
+    $('.work3').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work4').toggle("click");
+    $('.span').hover('slow');
+    $('.work4').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work5').toggle("click");
+    $('.span').hhover('slow');
+    $('.work5').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work6').toggle("click");
+    $('.span').hover('slow');
+    $('.work6').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work7').toggle("click");
+    $('.span').hover('slow');
+    $('.work7').hover("click");
    });
    
 $('#work').on("click",function(e){
-    $('.span').toggle('slow');
-    $('.work8').toggle("click");
+    $('.span').hover('slow');
+    $('.work8').hover("click");
    });
